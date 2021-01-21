@@ -1,0 +1,19 @@
+{
+  "name": "timeclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "bin": {
+    "clockin": "./clockin.js",
+    "clockout": "./clockout.js",
+    "showtime": "./showtime.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Collins",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
